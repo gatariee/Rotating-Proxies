@@ -23,7 +23,7 @@ However, it should be noted that the script is still relatively unstable and mad
 Note that you should supply your wordlists and targets in the scripts before compiling them 
 ```bash
 git clone https://github.com/gatariee/Rotating-Proxies
-cd Rotating-Proxies
+cd /Rotating-Proxies/scripts
 ```
 GO 1.20.1
 ```
